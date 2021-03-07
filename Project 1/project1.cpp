@@ -167,6 +167,7 @@ int main(int argc, char *argv[])
                 read(CpuToMem[0], data, 5);
                 mem[addrInt] = atoi(data);
             }
+            // Quits memory process
             else if (command == 'q')
             {
                 _exit(0);
@@ -190,12 +191,21 @@ int main(int argc, char *argv[])
         // Instruction counter
         int inst = 0;
 
+        // Keeps track of the timer interrupts
+        int timerIntQueue = 0;
+
         while (true)
         {
+            // If its time for the time interrupt, we add it to the queue
+            if (inst && inst % intrTime == 0)
+                timerIntQueue++;
 
             //Timer interrupt
-            if (!interrupt && inst && inst % intrTime == 0)
+            if (!interrupt && timerIntQueue)
             {
+                // Doing interrupt so we remove it from queue
+                timerIntQueue--;
+
                 interrupt = true;
 
                 userSP = sp;

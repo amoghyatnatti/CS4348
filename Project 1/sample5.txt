@@ -1,0 +1,158 @@
+23   // line one
+9
+23   // line two 
+35
+23   // line three 
+69
+23   // line four 
+114
+50
+1   // line 1
+2
+14  // x = 2
+1   // prints two spaces
+32
+9
+2
+9
+2
+1   // prints three underscores ("_")
+95
+9
+2
+9
+2
+9
+2
+26  // x--
+15
+22  // JNE 12 (if x is not 0)
+12
+1   // prints newline
+10
+9
+2
+24  //returns
+1   // line 2
+2
+14  // x = 2
+1   // prints a space
+32
+9
+2
+1   // prints a slash ("/")
+47
+9
+2
+1   // prints a space
+32
+9
+2
+1   // prints two underscores ("_")
+95
+9
+2
+9
+2
+1   // prints a right bracket (")")
+41  
+9
+2
+26  // x--
+15  
+22  // JNE 42 (if x is not 0)
+42
+1   // prints newline
+10
+9
+2
+24  // returns
+1   // prints left bracket ("(")
+40
+9
+2
+1   // prints a space
+32
+9
+2
+1   // prints left bracket
+40
+9
+2
+1   // prints two underscores
+95
+9
+2
+9
+2
+1   // prints a space
+32
+9
+2
+1   // prints a backslash ("\")
+92
+9
+2
+1   // prints two underscores
+95
+9
+2
+9
+2
+1   // prints a space
+32
+9
+2
+1   // prints a backslash
+92
+9
+2
+1   // prints a newline
+10
+9
+2
+24
+1   // line 14
+32  // prints a space
+9
+2
+1   // prints a backslash
+92
+9
+2
+1   // prints three underscores
+95
+9
+2
+9
+2
+9
+2
+1   // prints a right bracket
+41
+9
+2
+1   // prints a left bracket
+40
+9
+2
+1   // prints three underscores
+95
+9
+2
+9
+2
+9
+2
+1   // prints a slash
+47
+9
+2
+1   // prints a newline
+10
+9
+2
+24  // returns
+
+.1000
+30   interrupt handler - just return
