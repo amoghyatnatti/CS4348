@@ -3,10 +3,10 @@
 This project was implemented in C++ and uses a fork to distinguish the CPU and memory processes. 
 
 ## Files
-`sample5.txt` - This custom testcase that I created is supposed to print out CS with ASCII characters.
-`sample5_output.txt` - Shows the desired output for `sample5.txt`
-`Project1Summary.docx` - Contains the required project 1 summary
-`project1.cpp` - Contains the entirety of the project code
+`sample5.txt` - This custom testcase that I created is supposed to print out CS with ASCII characters. <br>
+`sample5_output.txt` - Shows the desired output for `sample5.txt` <br>
+`Project1Summary.docx` - Contains the required project 1 summary <br>
+`project1.cpp` - Contains the entirety of the project code <br>
 
 ## How to Compile and Execute the Project
 
