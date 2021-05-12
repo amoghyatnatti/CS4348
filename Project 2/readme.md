@@ -59,90 +59,90 @@ Patient 19 leaves receptionist and sits in waiting room
 Receptionist registers patient 3  
 Patient 3 leaves receptionist and sits in waiting room  
 Receptionist registers patient 23  
-Patient 23 leaves receptionist and sits in waiting room  
-Receptionist registers patient 20
-Patient 20 leaves receptionist and sits in waiting room
-Receptionist registers patient 11
-Patient 11 leaves receptionist and sits in waiting room
-Receptionist registers patient 24
-Patient 24 leaves receptionist and sits in waiting room
-Receptionist registers patient 12
-Patient 12 leaves receptionist and sits in waiting room
+Patient 23 leaves receptionist and sits in waiting room    
+Receptionist registers patient 20  
+Patient 20 leaves receptionist and sits in waiting room  
+Receptionist registers patient 11  
+Patient 11 leaves receptionist and sits in waiting room  
+Receptionist registers patient 24  
+Patient 24 leaves receptionist and sits in waiting room  
+Receptionist registers patient 12  
+Patient 12 leaves receptionist and sits in waiting room  
 Receptionist registers patient 13  
-Patient 13 leaves receptionist and sits in waiting room  
-Receptionist registers patient 7
-Patient 7 leaves receptionist and sits in waiting room
-Receptionist registers patient 17
-Patient 17 leaves receptionist and sits in waiting room
-Receptionist registers patient 29
-Patient 29 leaves receptionist and sits in waiting room
-Receptionist registers patient 18
-Patient 18 leaves receptionist and sits in waiting room
-Receptionist registers patient 0
-Patient 0 leaves receptionist and sits in waiting room
-Receptionist registers patient 1
-Patient 1 leaves receptionist and sits in waiting room
-Receptionist registers patient 15
-Patient 15 leaves receptionist and sits in waiting room
-Receptionist registers patient 8
-Patient 8 leaves receptionist and sits in waiting room
-Receptionist registers patient 9
-Patient 9 leaves receptionist and sits in waiting room
-Receptionist registers patient 5
-Patient 5 leaves receptionist and sits in waiting room
-Receptionist registers patient 27
-Patient 27 leaves receptionist and sits in waiting room
-Nurse 2 takes patient 28 to doctor's office
-Receptionist registers patient 22
-Nurse 1 takes patient 10 to doctor's office
-Nurse 0 takes patient 21 to doctor's office
-Patient 22 leaves receptionist and sits in waiting room
-Receptionist registers patient 6
-Patient 10 enters doctor 1's office
-Patient 28 enters doctor 2's office
-Doctor 2 listens to symptoms from patient 28
-Patient 6 leaves receptionist and sits in waiting room
-Doctor 1 listens to symptoms from patient 10
-Doctor 0 listens to symptoms from patient 21
-Patient 21 enters doctor 0's office
-Receptionist registers patient 2
-Patient 28 receives advice from doctor 2
-Patient 10 receives advice from doctor 1
-Patient 21 receives advice from doctor 0
-Patient 2 leaves receptionist and sits in waiting room
-Patient 28 leaves
-Receptionist registers patient 16
-Nurse 2 takes patient 26 to doctor's office
-Patient 10 leaves
-Patient 21 leaves
-Nurse 1 takes patient 19 to doctor's office
-Patient 26 enters doctor 2's office
-Doctor 2 listens to symptoms from patient 26
-Patient 16 leaves receptionist and sits in waiting room
-Patient 26 receives advice from doctor 2
-Patient 19 enters doctor 1's office
-Nurse 0 takes patient 3 to doctor's office
-Doctor 1 listens to symptoms from patient 19
-Receptionist registers patient 14
-Patient 26 leaves
-Patient 14 leaves receptionist and sits in waiting room
-Patient 3 enters doctor 0's office
-Doctor 0 listens to symptoms from patient 3
-Receptionist registers patient 4
-Nurse 2 takes patient 23 to doctor's office
-Patient 19 receives advice from doctor 1
-Doctor 2 listens to symptoms from patient 23
-Patient 4 leaves receptionist and sits in waiting room
-Patient 3 receives advice from doctor 0
-Patient 19 leaves
-Patient 23 enters doctor 2's office
-Patient 3 leaves
-Receptionist registers patient 25
-Nurse 0 takes patient 20 to doctor's office
-Nurse 1 takes patient 12 to doctor's office
-Patient 23 receives advice from doctor 2
-Patient 12 enters doctor 1's office
-Patient 23 leaves
+Patient 13 leaves receptionist and sits in waiting room   
+Receptionist registers patient 7  
+Patient 7 leaves receptionist and sits in waiting room  
+Receptionist registers patient 17  
+Patient 17 leaves receptionist and sits in waiting room  
+Receptionist registers patient 29  
+Patient 29 leaves receptionist and sits in waiting room  
+Receptionist registers patient 18  
+Patient 18 leaves receptionist and sits in waiting room  
+Receptionist registers patient 0  
+Patient 0 leaves receptionist and sits in waiting room  
+Receptionist registers patient 1  
+Patient 1 leaves receptionist and sits in waiting room  
+Receptionist registers patient 15  
+Patient 15 leaves receptionist and sits in waiting room  
+Receptionist registers patient 8  
+Patient 8 leaves receptionist and sits in waiting room  
+Receptionist registers patient 9  
+Patient 9 leaves receptionist and sits in waiting room  
+Receptionist registers patient 5  
+Patient 5 leaves receptionist and sits in waiting room  
+Receptionist registers patient 27  
+Patient 27 leaves receptionist and sits in waiting room  
+Nurse 2 takes patient 28 to doctor's office  
+Receptionist registers patient 22  
+Nurse 1 takes patient 10 to doctor's office  
+Nurse 0 takes patient 21 to doctor's office  
+Patient 22 leaves receptionist and sits in waiting room  
+Receptionist registers patient 6  
+Patient 10 enters doctor 1's office  
+Patient 28 enters doctor 2's office  
+Doctor 2 listens to symptoms from patient 28  
+Patient 6 leaves receptionist and sits in waiting room  
+Doctor 1 listens to symptoms from patient 10  
+Doctor 0 listens to symptoms from patient 21  
+Patient 21 enters doctor 0's office  
+Receptionist registers patient 2  
+Patient 28 receives advice from doctor 2  
+Patient 10 receives advice from doctor 1  
+Patient 21 receives advice from doctor 0  
+Patient 2 leaves receptionist and sits in waiting room  
+Patient 28 leaves  
+Receptionist registers patient 16  
+Nurse 2 takes patient 26 to doctor's office  
+Patient 10 leaves  
+Patient 21 leaves  
+Nurse 1 takes patient 19 to doctor's office  
+Patient 26 enters doctor 2's office  
+Doctor 2 listens to symptoms from patient 26  
+Patient 16 leaves receptionist and sits in waiting room  
+Patient 26 receives advice from doctor 2  
+Patient 19 enters doctor 1's office  
+Nurse 0 takes patient 3 to doctor's office  
+Doctor 1 listens to symptoms from patient 19  
+Receptionist registers patient 14  
+Patient 26 leaves  
+Patient 14 leaves receptionist and sits in waiting room  
+Patient 3 enters doctor 0's office  
+Doctor 0 listens to symptoms from patient 3  
+Receptionist registers patient 4  
+Nurse 2 takes patient 23 to doctor's office  
+Patient 19 receives advice from doctor 1  
+Doctor 2 listens to symptoms from patient 23  
+Patient 4 leaves receptionist and sits in waiting room  
+Patient 3 receives advice from doctor 0  
+Patient 19 leaves  
+Patient 23 enters doctor 2's office  
+Patient 3 leaves  
+Receptionist registers patient 25  
+Nurse 0 takes patient 20 to doctor's office  
+Nurse 1 takes patient 12 to doctor's office  
+Patient 23 receives advice from doctor 2  
+Patient 12 enters doctor 1's office  
+Patient 23 leaves  
 Doctor 1 listens to symptoms from patient 12  
 Nurse 2 takes patient 13 to doctor's office  
 Patient 12 receives advice from doctor 1  
