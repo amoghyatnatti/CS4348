@@ -2,7 +2,8 @@
 
 ## Overview
 This project was created in Java to help us get familiar with using Semaphores and coordinating threads.
-
+`design.docx` shows and explains the pseudocode that the program is based on
+`summary.docx` provides a brief summary of how I implemented the project and what I struggled with.
 ## Instructions
 Complete commmand line used to compile the program:
 cd src
